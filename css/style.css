@@ -1,0 +1,13 @@
+body{
+	background-color: #e3e3e3;
+	margin: auto;
+	width: 700px;
+}
+
+.quote{
+	width: 700px;
+    padding: 2px;
+    border: 2px solid white;
+    margin: auto; 
+    text-align: center;
+}
